@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="abc_action_bar_embed_tabs">true</bool>
+    <bool name="abc_config_actionMenuItemAllCaps">true</bool>
+    <bool name="enable_system_alarm_service_default">true</bool>
+    <bool name="enable_system_foreground_service_default">true</bool>
+    <bool name="enable_system_job_service_default">false</bool>
+    <bool name="gm_sys_typescale_body1_text_all_caps">false</bool>
+    <bool name="gm_sys_typescale_body2_text_all_caps">false</bool>
+    <bool name="gm_sys_typescale_button_text_all_caps">false</bool>
+    <bool name="gm_sys_typescale_caption_text_all_caps">false</bool>
+    <bool name="gm_sys_typescale_display1_text_all_caps">false</bool>
+    <bool name="gm_sys_typescale_display2_text_all_caps">false</bool>
+    <bool name="gm_sys_typescale_display3_text_all_caps">false</bool>
+    <bool name="gm_sys_typescale_headline1_text_all_caps">false</bool>
+    <bool name="gm_sys_typescale_headline2_text_all_caps">false</bool>
+    <bool name="gm_sys_typescale_headline3_text_all_caps">false</bool>
+    <bool name="gm_sys_typescale_headline4_text_all_caps">false</bool>
+    <bool name="gm_sys_typescale_headline5_text_all_caps">false</bool>
+    <bool name="gm_sys_typescale_headline6_text_all_caps">false</bool>
+    <bool name="gm_sys_typescale_overline_text_all_caps">true</bool>
+    <bool name="gm_sys_typescale_subhead1_text_all_caps">false</bool>
+    <bool name="gm_sys_typescale_subhead2_text_all_caps">false</bool>
+    <bool name="gm_sys_typescale_subtitle1_text_all_caps">false</bool>
+    <bool name="gm_sys_typescale_subtitle2_text_all_caps">false</bool>
+    <bool name="workmanager_test_configuration">false</bool>
+</resources>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.libraries.onegoogle.accountmenu.cards.DynamicCardRootView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/og_card"
+    android:background="?attr/selectableItemBackground"
+    android:paddingLeft="@dimen/account_menu_cards_padding_from_start"
+    android:paddingTop="@dimen/account_menu_cards_vertical_spacing"
+    android:paddingRight="@dimen/account_menu_cards_padding_from_end"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:minHeight="@dimen/account_menu_cards_min_height"
+    android:paddingStart="@dimen/account_menu_cards_padding_from_start"
+    android:paddingEnd="@dimen/account_menu_cards_padding_from_end">
+    <include
+        android:id="@+id/og_loading_card_view"
+        android:paddingTop="@dimen/account_menu_card_content_vertical_spacing"
+        android:paddingBottom="@dimen/account_menu_card_content_vertical_spacing"
+        android:visibility="gone"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/account_menu_cards_vertical_spacing"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        layout="@layout/og_loading_card"/>
+    <FrameLayout
+        android:id="@+id/og_card_content_root"
+        android:paddingTop="@dimen/account_menu_card_content_vertical_spacing"
+        android:paddingBottom="@dimen/account_menu_card_content_vertical_spacing"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/og_highlight_container"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"/>
+    <FrameLayout
+        android:id="@+id/og_highlight_container"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/account_menu_cards_vertical_spacing"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"/>
+</com.google.android.libraries.onegoogle.accountmenu.cards.DynamicCardRootView>

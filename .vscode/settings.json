@@ -1,0 +1,11 @@
+{
+    "protoc": {
+        "path": "/usr/bin/protoc",
+        "compile_on_save": true,
+        "options": [
+            "--proto_path=${workspaceRoot}/api/protos/",
+            "--go_out=${workspaceRoot}/api/bindings",
+            "--go_opt=module=github.com/dylanmazurek/google-findmy/api/bindings",
+        ]
+    }
+}

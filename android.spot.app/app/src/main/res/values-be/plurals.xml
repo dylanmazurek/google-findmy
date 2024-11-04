@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="adm_device_picker_supervised_account_header">
+        <item quantity="one">Прылады карыстальніка %1$s</item>
+        <item quantity="few">Прылады карыстальніка %1$s</item>
+        <item quantity="many">Прылады карыстальніка %1$s</item>
+        <item quantity="other">Прылады карыстальніка %1$s</item>
+    </plurals>
+    <plurals name="content_desc_ring_device">
+        <item quantity="one">Празваніць прыладу %1$d хвіліну</item>
+        <item quantity="few">Празваніць прыладу %1$d хвіліны</item>
+        <item quantity="many">Празваніць прыладу %1$d хвілін</item>
+        <item quantity="other">Празваніць прыладу %1$d хвіліны</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="one">%d новае апавяшчэнне</item>
+        <item quantity="few">%d новыя апавяшчэнні</item>
+        <item quantity="many">%d новых апавяшчэнняў</item>
+        <item quantity="other">%d новага апавяшчэння</item>
+    </plurals>
+    <plurals name="public_notification_text">
+        <item quantity="one">You have a notification</item>
+        <item quantity="other">%1$d new notifications</item>
+    </plurals>
+    <plurals name="spot_sharing_application_shared_owners_title">
+        <item quantity="one">Даныя абагульваюцца яшчэ з %1$d</item>
+        <item quantity="few">Даныя абагульваюцца яшчэ з %1$d</item>
+        <item quantity="many">Даныя абагульваюцца яшчэ з %1$d</item>
+        <item quantity="other">Даныя абагульваюцца яшчэ з %1$d</item>
+    </plurals>
+</resources>

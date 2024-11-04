@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="adm_device_picker_supervised_account_header">
+        <item quantity="one">%1$s இன் சாதனம்</item>
+        <item quantity="other">%1$s இன் சாதனங்கள்</item>
+    </plurals>
+    <plurals name="content_desc_ring_device">
+        <item quantity="one">சாதனத்தை %1$d நிமிடத்திற்கு ரிங் செய்யும்</item>
+        <item quantity="other">சாதனத்தை %1$d நிமிடங்களுக்கு ரிங் செய்யும்</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="one">%d புதிய அறிவிப்பு</item>
+        <item quantity="other">%d புதிய அறிவிப்புகள்</item>
+    </plurals>
+    <plurals name="public_notification_text">
+        <item quantity="one">You have a notification</item>
+        <item quantity="other">%1$d new notifications</item>
+    </plurals>
+    <plurals name="spot_sharing_application_shared_owners_title">
+        <item quantity="one">இன்னும் %1$d நபருடன் பகிரப்பட்டுள்ளது</item>
+        <item quantity="other">இன்னும் %1$d நபர்களுடன் பகிரப்பட்டுள்ளது</item>
+    </plurals>
+</resources>

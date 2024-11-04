@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="adm_device_picker_supervised_account_header">
+        <item quantity="one">Pajisja e %1$s</item>
+        <item quantity="other">Pajisjet e %1$s</item>
+    </plurals>
+    <plurals name="content_desc_ring_device">
+        <item quantity="one">Fillo t&apos;i biesh ziles së pajisjes për %1$d minutë</item>
+        <item quantity="other">Fillo t&apos;i biesh ziles së pajisjes për %1$d minuta</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="one">%d njoftim i ri</item>
+        <item quantity="other">%d njoftime të reja</item>
+    </plurals>
+    <plurals name="public_notification_text">
+        <item quantity="one">You have a notification</item>
+        <item quantity="other">%1$d new notifications</item>
+    </plurals>
+    <plurals name="spot_sharing_application_shared_owners_title">
+        <item quantity="one">Ndarë me %1$d tjetër</item>
+        <item quantity="other">Ndarë me %1$d të tjerë</item>
+    </plurals>
+</resources>

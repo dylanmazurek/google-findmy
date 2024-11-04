@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="adm_device_picker_supervised_account_header">
+        <item quantity="zero">Ierīces, ko izmanto %1$s</item>
+        <item quantity="one">Ierīces, ko izmanto %1$s</item>
+        <item quantity="other">Ierīces, ko izmanto %1$s</item>
+    </plurals>
+    <plurals name="content_desc_ring_device">
+        <item quantity="zero">Sākt zvanīt ierīcei %1$d minūtes</item>
+        <item quantity="one">Sākt zvanīt ierīcei %1$d minūti</item>
+        <item quantity="other">Sākt zvanīt ierīcei %1$d minūtes</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="zero">%d jaunu paziņojumu</item>
+        <item quantity="one">%d jauns paziņojums</item>
+        <item quantity="other">%d jauni paziņojumi</item>
+    </plurals>
+    <plurals name="public_notification_text">
+        <item quantity="one">You have a notification</item>
+        <item quantity="other">%1$d new notifications</item>
+    </plurals>
+    <plurals name="spot_sharing_application_shared_owners_title">
+        <item quantity="zero">Ierīce koplietota ar vēl %1$d personām</item>
+        <item quantity="one">Ierīce koplietota ar vēl %1$d personu</item>
+        <item quantity="other">Ierīce koplietota ar vēl %1$d personām</item>
+    </plurals>
+</resources>

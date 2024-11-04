@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="adm_device_picker_supervised_account_header">
+        <item quantity="one">อุปกรณ์ของ %1$s</item>
+        <item quantity="other">อุปกรณ์ของ %1$s</item>
+    </plurals>
+    <plurals name="content_desc_ring_device">
+        <item quantity="one">เริ่มทำให้อุปกรณ์ส่งเสียงเป็นเวลา %1$d นาที</item>
+        <item quantity="other">เริ่มทำให้อุปกรณ์ส่งเสียงเป็นเวลา %1$d นาที</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="one">การแจ้งเตือนใหม่ %d รายการ</item>
+        <item quantity="other">การแจ้งเตือนใหม่ %d รายการ</item>
+    </plurals>
+    <plurals name="public_notification_text">
+        <item quantity="one">คุณมีการแจ้งเตือน</item>
+        <item quantity="other">การแจ้งเตือนใหม่ %1$d รายการ</item>
+    </plurals>
+    <plurals name="spot_sharing_application_shared_owners_title">
+        <item quantity="one">แชร์อยู่กับคนอื่น %1$d คน</item>
+        <item quantity="other">แชร์อยู่กับคนอื่น %1$d คน</item>
+    </plurals>
+</resources>

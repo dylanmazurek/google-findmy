@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="adm_device_picker_supervised_account_header">
+        <item quantity="one">Naprave osebe %1$s</item>
+        <item quantity="two">Naprave osebe %1$s</item>
+        <item quantity="few">Naprave osebe %1$s</item>
+        <item quantity="other">Naprave osebe %1$s</item>
+    </plurals>
+    <plurals name="content_desc_ring_device">
+        <item quantity="one">Začenjanje zvonjenja naprave %1$d minuto</item>
+        <item quantity="two">Začenjanje zvonjenja naprave %1$d minuti</item>
+        <item quantity="few">Začenjanje zvonjenja naprave %1$d minute</item>
+        <item quantity="other">Začenjanje zvonjenja naprave %1$d minut</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="one">%d novo obvestilo</item>
+        <item quantity="two">%d novi obvestili</item>
+        <item quantity="few">%d nova obvestila</item>
+        <item quantity="other">%d novih obvestil</item>
+    </plurals>
+    <plurals name="public_notification_text">
+        <item quantity="one">You have a notification</item>
+        <item quantity="other">%1$d new notifications</item>
+    </plurals>
+    <plurals name="spot_sharing_application_shared_owners_title">
+        <item quantity="one">Deljeno s/z %1$d drugo osebo</item>
+        <item quantity="two">Deljeno s/z %1$d drugima osebama</item>
+        <item quantity="few">Deljeno s/z %1$d drugimi osebami</item>
+        <item quantity="other">Deljeno s/z %1$d drugimi osebami</item>
+    </plurals>
+</resources>

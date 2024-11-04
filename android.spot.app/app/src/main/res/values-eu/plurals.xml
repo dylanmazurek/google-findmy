@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="adm_device_picker_supervised_account_header">
+        <item quantity="one">%1$s erabiltzailearen gailua</item>
+        <item quantity="other">%1$s erabiltzailearen gailuak</item>
+    </plurals>
+    <plurals name="content_desc_ring_device">
+        <item quantity="one">Hasi gailuan tonua jotzen %1$d minutuz</item>
+        <item quantity="other">Hasi gailuan tonua jotzen %1$d minutuz</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="one">%d jakinarazpen berri</item>
+        <item quantity="other">%d jakinarazpen berri</item>
+    </plurals>
+    <plurals name="public_notification_text">
+        <item quantity="one">You have a notification</item>
+        <item quantity="other">%1$d new notifications</item>
+    </plurals>
+    <plurals name="spot_sharing_application_shared_owners_title">
+        <item quantity="one">Beste %1$d pertsonarekin dago partekatuta</item>
+        <item quantity="other">Beste %1$d pertsonekin dago partekatuta</item>
+    </plurals>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent_error">#f28b82</color>
+    <color name="accent_warning">#fdd663</color>
+    <color name="background_error">#3b2d2c</color>
+    <color name="background_warning">#333121</color>
+    <color name="google_daynight_default_color_primary_text">@color/google_dark_default_color_primary_text</color>
+    <color name="google_daynight_default_color_secondary_text">@color/google_dark_default_color_secondary_text</color>
+</resources>

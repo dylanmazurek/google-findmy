@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="adm_device_picker_supervised_account_header">
+        <item quantity="one">%1$s qurilmasi</item>
+        <item quantity="other">%1$s qurilmalari</item>
+    </plurals>
+    <plurals name="content_desc_ring_device">
+        <item quantity="one">Qurilmani %1$d daqiqa jiringlatish</item>
+        <item quantity="other">Qurilmani %1$d daqiqa jiringlatish</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="one">%d ta yangi bildirishnoma</item>
+        <item quantity="other">%d ta yangi bildirishnoma</item>
+    </plurals>
+    <plurals name="public_notification_text">
+        <item quantity="one">You have a notification</item>
+        <item quantity="other">%1$d new notifications</item>
+    </plurals>
+    <plurals name="spot_sharing_application_shared_owners_title">
+        <item quantity="one">%1$d kishiga ulashilgan</item>
+        <item quantity="other">%1$d kishiga ulashilgan</item>
+    </plurals>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:actionbarcompat="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_help_feedback"
+        android:orderInCategory="103"
+        android:title="@string/action_help_feedback"
+        actionbarcompat:showAsAction="never"/>
+</menu>

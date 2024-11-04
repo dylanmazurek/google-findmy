@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="adm_device_picker_supervised_account_header">
+        <item quantity="one">%1$s 的裝置</item>
+        <item quantity="other">%1$s 的裝置</item>
+    </plurals>
+    <plurals name="content_desc_ring_device">
+        <item quantity="one">開始讓裝置發出鈴聲 %1$d 分鐘</item>
+        <item quantity="other">開始讓裝置發出鈴聲 %1$d 分鐘</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="one">%d 個新通知</item>
+        <item quantity="other">%d 個新通知</item>
+    </plurals>
+    <plurals name="public_notification_text">
+        <item quantity="one">您有 1 則通知</item>
+        <item quantity="other">%1$d 則新通知</item>
+    </plurals>
+    <plurals name="spot_sharing_application_shared_owners_title">
+        <item quantity="one">已與其他 %1$d 位使用者共用</item>
+        <item quantity="other">已與其他 %1$d 位使用者共用</item>
+    </plurals>
+</resources>

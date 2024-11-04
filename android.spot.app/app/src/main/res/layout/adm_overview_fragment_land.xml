@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <FrameLayout
+        android:id="@+id/navigation_rail_container"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"/>
+    <androidx.coordinatorlayout.widget.CoordinatorLayout
+        android:id="@+id/container_map_and_bottom_sheet"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1">
+        <LinearLayout
+            android:orientation="vertical"
+            android:id="@+id/container_bottom_sheet"
+            android:background="?attr/colorSurfaceContainerLow"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <Button
+                android:id="@+id/back_button"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/floating_buttons_top_margin"
+                android:contentDescription="@string/content_desc_back_button"
+                android:layout_marginStart="@dimen/floating_buttons_horizontal_edge_margin"
+                app:icon="@drawable/gs_arrow_back_vd_theme_24"
+                style="@style/ShapeAppearance.Fmd.Button.FloatingOverviewButton"/>
+            <android.support.v4.app.FragmentContainerView
+                android:id="@+id/bottom_sheet_fragment_container"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+        </LinearLayout>
+    </androidx.coordinatorlayout.widget.CoordinatorLayout>
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/floating_buttons_container"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1">
+        <include layout="@layout/adm_map_overlay_fragment"/>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</LinearLayout>

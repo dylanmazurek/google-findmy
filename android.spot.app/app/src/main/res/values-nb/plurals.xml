@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="adm_device_picker_supervised_account_header">
+        <item quantity="one">Enheten til %1$s</item>
+        <item quantity="other">Enhetene til %1$s</item>
+    </plurals>
+    <plurals name="content_desc_ring_device">
+        <item quantity="one">Begynn å ringe enheten i %1$d minutt</item>
+        <item quantity="other">Begynn å ringe enheten i %1$d minutter</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="one">%d nytt varsel</item>
+        <item quantity="other">%d nye varsler</item>
+    </plurals>
+    <plurals name="public_notification_text">
+        <item quantity="one">Du har et varsel</item>
+        <item quantity="other">%1$d nye varsler</item>
+    </plurals>
+    <plurals name="spot_sharing_application_shared_owners_title">
+        <item quantity="one">Delt med %1$d annen</item>
+        <item quantity="other">Delt med %1$d andre</item>
+    </plurals>
+</resources>

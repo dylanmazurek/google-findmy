@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phenotype-registrations>
+    <phenotype-registration>
+        <configuration-package>com.google.android.libraries.notifications
+        </configuration-package>
+        <log-sources>
+            <log-source>ANDROID_GSA_ANDROID_PRIMES
+            </log-source>
+            <log-source>CHIME
+            </log-source>
+            <log-source>GMM_PRIMES
+            </log-source>
+            <log-source>PHOTOS_ANDROID_PRIMES
+            </log-source>
+            <log-source>YT_MAIN_APP_ANDROID_PRIMES
+            </log-source>
+        </log-sources>
+        <auto-subpackage>true
+        </auto-subpackage>
+        <params>CJ6U3rQC
+        </params>
+    </phenotype-registration>
+</phenotype-registrations>

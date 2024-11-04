@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="adm_device_picker_supervised_account_header">
+        <item quantity="one">%1$s’s device</item>
+        <item quantity="other">%1$s’s devices</item>
+    </plurals>
+    <plurals name="content_desc_ring_device">
+        <item quantity="one">Start to ring device for %1$d minute</item>
+        <item quantity="other">Start to ring device for %1$d minutes</item>
+    </plurals>
+    <plurals name="spot_sharing_application_shared_owners_title">
+        <item quantity="one">Shared with %1$d other</item>
+        <item quantity="other">Shared with %1$d others</item>
+    </plurals>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="adm_device_picker_supervised_account_header">
+        <item quantity="one">%1$s ၏စက်</item>
+        <item quantity="other">%1$s ၏စက်များ</item>
+    </plurals>
+    <plurals name="content_desc_ring_device">
+        <item quantity="one">စက်ပစ္စည်းကို %1$d မိနစ် အသံမြည်စေရန်</item>
+        <item quantity="other">စက်ပစ္စည်းကို %1$d မိနစ် အသံမြည်စေရန်</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="one">အကြောင်းကြားချက်အသစ် %d ခု</item>
+        <item quantity="other">အကြောင်းကြားချက်အသစ် %d ခု</item>
+    </plurals>
+    <plurals name="public_notification_text">
+        <item quantity="one">You have a notification</item>
+        <item quantity="other">%1$d new notifications</item>
+    </plurals>
+    <plurals name="spot_sharing_application_shared_owners_title">
+        <item quantity="one">အခြား %1$d ယောက်နှင့် မျှဝေထားသည်</item>
+        <item quantity="other">အခြား %1$d ယောက်နှင့် မျှဝေထားသည်</item>
+    </plurals>
+</resources>

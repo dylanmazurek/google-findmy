@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <ImageView
+        android:id="@+id/incognito_on_image_view"
+        android:visibility="gone"
+        android:layout_width="@dimen/og_apd_default_disc_min_touch_target_size"
+        android:layout_height="@dimen/og_apd_default_disc_min_touch_target_size"
+        android:contentDescription="@null"/>
+    <com.google.android.libraries.onegoogle.account.disc.AccountParticleDisc
+        android:id="@+id/og_selected_account_disc_apd"
+        android:visibility="gone"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:discMinTouchTargetSize="@dimen/og_apd_default_disc_min_touch_target_size"
+        app:ensureDiscMinTouchTargetSize="true"/>
+</merge>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:contentDescription="@string/og_loading_a11y">
+    <com.google.android.material.progressindicator.CircularProgressIndicator
+        android:layout_gravity="center"
+        android:id="@+id/og_loading_indicator"
+        android:layout_width="28dp"
+        android:layout_height="28dp"
+        android:indeterminate="true"
+        android:contentDescription="@null"
+        android:importantForAccessibility="no"
+        style="@style/Widget.GoogleMaterial.CircularProgressIndicator.Small"/>
+</FrameLayout>

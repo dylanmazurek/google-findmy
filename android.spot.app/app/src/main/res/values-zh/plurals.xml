@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="adm_device_picker_supervised_account_header">
+        <item quantity="one">%1$s的设备</item>
+        <item quantity="other">%1$s的设备</item>
+    </plurals>
+    <plurals name="content_desc_ring_device">
+        <item quantity="one">让设备开始响铃 %1$d 分钟</item>
+        <item quantity="other">让设备开始响铃 %1$d 分钟</item>
+    </plurals>
+    <plurals name="spot_sharing_application_shared_owners_title">
+        <item quantity="one">已与另外 %1$d 人共享</item>
+        <item quantity="other">已与另外 %1$d 人共享</item>
+    </plurals>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/scroll_view"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:fillViewport="true">
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <com.google.android.material.bottomsheet.BottomSheetDragHandleView
+            android:id="@+id/bottom_sheet_drag_handle"
+            android:paddingTop="4dp"
+            android:paddingBottom="0dp"
+            android:layout_width="match_parent"
+            android:layout_height="24dp"
+            android:alpha="0.3"
+            app:tint="?attr/colorOutline"/>
+        <include layout="@layout/include_common_device_panel_devices"/>
+    </FrameLayout>
+</androidx.core.widget.NestedScrollView>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="adm_device_picker_supervised_account_header">
+        <item quantity="one">%1$s さんのデバイス</item>
+        <item quantity="other">%1$s さんのデバイス</item>
+    </plurals>
+    <plurals name="content_desc_ring_device">
+        <item quantity="one">デバイスの着信音を %1$d 分間鳴らします</item>
+        <item quantity="other">デバイスの着信音を %1$d 分間鳴らします</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="one">%d 件の新しい通知</item>
+        <item quantity="other">%d 件の新しい通知</item>
+    </plurals>
+    <plurals name="public_notification_text">
+        <item quantity="one">1 件のお知らせがあります</item>
+        <item quantity="other">%1$d 件の新しいお知らせがあります</item>
+    </plurals>
+    <plurals name="spot_sharing_application_shared_owners_title">
+        <item quantity="one">他 %1$d 人と共有</item>
+        <item quantity="other">他 %1$d 人と共有</item>
+    </plurals>
+</resources>

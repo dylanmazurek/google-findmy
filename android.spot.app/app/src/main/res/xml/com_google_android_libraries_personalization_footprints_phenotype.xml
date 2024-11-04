@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phenotype-registrations>
+    <phenotype-registration>
+        <configuration-package>com.google.android.libraries.personalization.footprints
+        </configuration-package>
+        <log-sources>
+            <log-source>FPOP_CLIENT
+            </log-source>
+        </log-sources>
+        <auto-subpackage>true
+        </auto-subpackage>
+    </phenotype-registration>
+</phenotype-registrations>

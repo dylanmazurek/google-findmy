@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <com.google.android.material.card.MaterialCardView
+        android:id="@+id/device_can_be_found_when_off_card"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="24dp"
+        android:layout_marginTop="32dp"
+        android:layout_marginRight="24dp"
+        app:cardBackgroundColor="?attr/colorOnSurfaceInverse"
+        app:cardCornerRadius="28dp"
+        style="?attr/materialCardViewFilledStyle">
+        <TextView
+            android:textAppearance="?attr/textAppearanceBody2"
+            android:gravity="center_horizontal"
+            android:id="@+id/device_can_be_found_when_off_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="24dp"
+            android:layout_marginTop="12dp"
+            android:layout_marginRight="24dp"
+            android:layout_marginBottom="12dp"
+            android:text="@string/device_can_be_found_when_off"/>
+    </com.google.android.material.card.MaterialCardView>
+</LinearLayout>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Base.Theme.GoogleMaterial.Light" parent="@style/Base.V27.Theme.GoogleMaterial.Light">
+    </style>
+    <style name="Base.Theme.GoogleMaterial3.Light" parent="@style/Base.V27.Theme.GoogleMaterial3.Light">
+    </style>
+    <style name="Base.V27.Theme.GoogleMaterial.Light" parent="@style/Base.V24.Theme.GoogleMaterial.Light">
+        <item name="android:navigationBarColor">@color/google_white</item>
+        <item name="android:windowLightNavigationBar">true</item>
+    </style>
+    <style name="Base.V27.Theme.GoogleMaterial3.Light" parent="@style/Base.V24.Theme.GoogleMaterial3.Light">
+        <item name="android:navigationBarColor">@color/gm3_ref_palette_white</item>
+        <item name="android:windowLightNavigationBar">true</item>
+    </style>
+    <style name="OneGoogle.Dialog.Base" parent="@style/OneGoogle.Dialog.Base.V27">
+    </style>
+    <style name="OneGoogle.Dialog.Base.V27" parent="@style/OneGoogle.Dialog.Base.V23">
+        <item name="android:windowLightNavigationBar">false</item>
+    </style>
+</resources>

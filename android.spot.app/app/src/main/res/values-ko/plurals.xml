@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="adm_device_picker_supervised_account_header">
+        <item quantity="one">%1$s 님의 기기</item>
+        <item quantity="other">%1$s 님의 기기</item>
+    </plurals>
+    <plurals name="content_desc_ring_device">
+        <item quantity="one">%1$d분 동안 기기에서 벨을 울립니다.</item>
+        <item quantity="other">%1$d분 동안 기기에서 벨을 울립니다.</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="one">새 알림 %d개</item>
+        <item quantity="other">새 알림 %d개</item>
+    </plurals>
+    <plurals name="public_notification_text">
+        <item quantity="one">알림 1개 있음</item>
+        <item quantity="other">새 알림 %1$d개</item>
+    </plurals>
+    <plurals name="spot_sharing_application_shared_owners_title">
+        <item quantity="one">%1$d명과 추가로 공유됨</item>
+        <item quantity="other">%1$d명과 추가로 공유됨</item>
+    </plurals>
+</resources>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="adm_device_picker_supervised_account_header">
+        <item quantity="zero">أجهزة &quot;%1$s&quot;</item>
+        <item quantity="one">جهاز &quot;%1$s&quot;</item>
+        <item quantity="two">جهازا &quot;%1$s&quot;</item>
+        <item quantity="few">أجهزة &quot;%1$s&quot;</item>
+        <item quantity="many">أجهزة &quot;%1$s&quot;</item>
+        <item quantity="other">أجهزة &quot;%1$s&quot;</item>
+    </plurals>
+    <plurals name="content_desc_ring_device">
+        <item quantity="zero">بدء استصدار رنين الجهاز لمدة %1$d دقيقة</item>
+        <item quantity="one">بدء استصدار رنين الجهاز لمدة %1$d دقيقة</item>
+        <item quantity="two">بدء استصدار رنين الجهاز لمدة دقيقتين (%1$d)</item>
+        <item quantity="few">بدء استصدار رنين الجهاز لمدة %1$d دقائق</item>
+        <item quantity="many">بدء استصدار رنين الجهاز لمدة %1$d دقيقة</item>
+        <item quantity="other">بدء استصدار رنين الجهاز لمدة %1$d دقيقة</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="zero">%d إشعار جديد</item>
+        <item quantity="one">إشعار جديد واحد (%d)</item>
+        <item quantity="two">إشعاران جديدان (%d)</item>
+        <item quantity="few">%d إشعارات جديدة</item>
+        <item quantity="many">%d إشعارًا جديدًا</item>
+        <item quantity="other">%d إشعار جديد</item>
+    </plurals>
+    <plurals name="public_notification_text">
+        <item quantity="zero">%1$d إشعار جديد</item>
+        <item quantity="one">تلقّيت إشعارًا</item>
+        <item quantity="two">(%1$d) إشعاران جديدان</item>
+        <item quantity="few">%1$d إشعارات جديدة</item>
+        <item quantity="many">%1$d إشعارًا جديدًا</item>
+        <item quantity="other">%1$d إشعار جديد</item>
+    </plurals>
+    <plurals name="spot_sharing_application_shared_owners_title">
+        <item quantity="zero">تمت المشاركة مع %1$d مستخدم آخر.</item>
+        <item quantity="one">تمت المشاركة مع مستخدم واحد (%1$d) آخر.</item>
+        <item quantity="two">تمت المشاركة مع مستخدمَين آخرَين (%1$d).</item>
+        <item quantity="few">تمت المشاركة مع %1$d مستخدمين آخرين.</item>
+        <item quantity="many">تمت المشاركة مع %1$d مستخدمًا آخر.</item>
+        <item quantity="other">تمت المشاركة مع %1$d مستخدم آخر.</item>
+    </plurals>
+</resources>

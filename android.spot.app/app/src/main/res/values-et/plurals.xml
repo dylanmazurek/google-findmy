@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="adm_device_picker_supervised_account_header">
+        <item quantity="one">Kasutaja %1$s seade</item>
+        <item quantity="other">Kasutaja %1$s seadmed</item>
+    </plurals>
+    <plurals name="content_desc_ring_device">
+        <item quantity="one">Seadme helistamise käivitamine %1$d minutiks</item>
+        <item quantity="other">Seadme helistamise käivitamine %1$d minutiks</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="one">%d uus märguanne</item>
+        <item quantity="other">%d uut märguannet</item>
+    </plurals>
+    <plurals name="public_notification_text">
+        <item quantity="one">You have a notification</item>
+        <item quantity="other">%1$d new notifications</item>
+    </plurals>
+    <plurals name="spot_sharing_application_shared_owners_title">
+        <item quantity="one">Jagatud %1$d inimesega</item>
+        <item quantity="other">Jagatud %1$d inimesega</item>
+    </plurals>
+</resources>

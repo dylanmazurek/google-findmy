@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="adm_device_picker_supervised_account_header">
+        <item quantity="one">Η συσκευή του χρήστη %1$s</item>
+        <item quantity="other">Οι συσκευές του χρήστη %1$s</item>
+    </plurals>
+    <plurals name="content_desc_ring_device">
+        <item quantity="one">Έναρξη κλήσης συσκευής για %1$d λεπτό</item>
+        <item quantity="other">Έναρξη κλήσης συσκευής για %1$d λεπτά</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="one">%d νέα ειδοποίηση</item>
+        <item quantity="other">%d νέες ειδοποιήσεις</item>
+    </plurals>
+    <plurals name="public_notification_text">
+        <item quantity="one">Έχετε μία ειδοποίηση</item>
+        <item quantity="other">%1$d νέες ειδοποιήσεις</item>
+    </plurals>
+    <plurals name="spot_sharing_application_shared_owners_title">
+        <item quantity="one">Χρησιμοποιείται από κοινού με %1$d ακόμη χρήστη</item>
+        <item quantity="other">Χρησιμοποιείται από κοινού με %1$d ακόμη χρήστες</item>
+    </plurals>
+</resources>

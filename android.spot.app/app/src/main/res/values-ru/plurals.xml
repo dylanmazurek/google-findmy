@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="adm_device_picker_supervised_account_header">
+        <item quantity="one">Устройства пользователя %1$s</item>
+        <item quantity="few">Устройства пользователя %1$s</item>
+        <item quantity="many">Устройства пользователя %1$s</item>
+        <item quantity="other">Устройства пользователя %1$s</item>
+    </plurals>
+    <plurals name="content_desc_ring_device">
+        <item quantity="one">Прозвонить устройство в течение %1$d минуты</item>
+        <item quantity="few">Прозвонить устройство в течение %1$d минут</item>
+        <item quantity="many">Прозвонить устройство в течение %1$d минут</item>
+        <item quantity="other">Прозвонить устройство в течение %1$d минуты</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="one">%d новое уведомление</item>
+        <item quantity="few">%d новых уведомления</item>
+        <item quantity="many">%d новых уведомлений</item>
+        <item quantity="other">%d нового уведомления</item>
+    </plurals>
+    <plurals name="public_notification_text">
+        <item quantity="one">%1$d новое уведомление</item>
+        <item quantity="few">%1$d новых уведомления</item>
+        <item quantity="many">%1$d новых уведомлений</item>
+        <item quantity="other">%1$d нового уведомления</item>
+    </plurals>
+    <plurals name="spot_sharing_application_shared_owners_title">
+        <item quantity="one">Доступно ещё %1$d пользователю</item>
+        <item quantity="few">Доступно ещё %1$d пользователям</item>
+        <item quantity="many">Доступно ещё %1$d пользователям</item>
+        <item quantity="other">Доступно ещё %1$d пользователя</item>
+    </plurals>
+</resources>

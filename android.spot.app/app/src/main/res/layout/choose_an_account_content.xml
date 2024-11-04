@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.google.android.material.card.MaterialCardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="?attr/ogContainerExternalHorizontalSpacing"
+        android:layout_marginRight="?attr/ogContainerExternalHorizontalSpacing"
+        style="@style/OneGoogle.MaterialCardView">
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <android.support.v7.widget.RecyclerView
+                android:id="@+id/accounts"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                style="@style/OneGoogle.AccountMenu.RecyclerView"/>
+            <android.support.v7.widget.RecyclerView
+                android:id="@+id/cards_and_actions"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                style="@style/OneGoogle.AccountMenu.RecyclerView"/>
+        </LinearLayout>
+    </com.google.android.material.card.MaterialCardView>
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/common_actions"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        style="@style/OneGoogle.AccountMenu.RecyclerView"/>
+</merge>

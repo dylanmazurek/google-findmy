@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="adm_device_picker_supervised_account_header">
+        <item quantity="one">%1$s įrenginiai</item>
+        <item quantity="few">%1$s įrenginiai</item>
+        <item quantity="many">%1$s įrenginiai</item>
+        <item quantity="other">%1$s įrenginiai</item>
+    </plurals>
+    <plurals name="content_desc_ring_device">
+        <item quantity="one">Pradėti skambinti į įrenginį %1$d minutę</item>
+        <item quantity="few">Pradėti skambinti į įrenginį %1$d minutes</item>
+        <item quantity="many">Pradėti skambinti į įrenginį %1$d minutės</item>
+        <item quantity="other">Pradėti skambinti į įrenginį %1$d minučių</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="one">%d naujas pranešimas</item>
+        <item quantity="few">%d nauji pranešimai</item>
+        <item quantity="many">%d naujo pranešimo</item>
+        <item quantity="other">%d naujų pranešimų</item>
+    </plurals>
+    <plurals name="public_notification_text">
+        <item quantity="one">You have a notification</item>
+        <item quantity="other">%1$d new notifications</item>
+    </plurals>
+    <plurals name="spot_sharing_application_shared_owners_title">
+        <item quantity="one">Bendrinama su dar %1$d žmogumi</item>
+        <item quantity="few">Bendrinama su dar %1$d žmonėmis</item>
+        <item quantity="many">Bendrinama su dar %1$d žmogaus</item>
+        <item quantity="other">Bendrinama su dar %1$d žmonių</item>
+    </plurals>
+</resources>

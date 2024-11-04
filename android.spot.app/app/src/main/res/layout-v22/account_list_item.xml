@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <com.google.android.libraries.onegoogle.account.particle.AccountParticle
+        android:id="@+id/account_list_item_particle"
+        android:background="?attr/selectableItemBackground"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+    <FrameLayout
+        android:id="@+id/account_list_item_critical_alert_container"
+        android:paddingLeft="@dimen/account_list_item_critical_alert_horizontal_padding"
+        android:paddingRight="@dimen/account_list_item_critical_alert_horizontal_padding"
+        android:focusable="false"
+        android:visibility="gone"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/account_list_item_critical_alert_vertical_spacing"
+        android:layout_marginBottom="@dimen/account_list_item_critical_alert_vertical_spacing"
+        android:importantForAccessibility="noHideDescendants"
+        android:layout_marginVertical="@dimen/account_list_item_critical_alert_vertical_spacing"
+        android:paddingHorizontal="@dimen/account_list_item_critical_alert_horizontal_padding"/>
+</LinearLayout>

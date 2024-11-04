@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.google.android.material.button.MaterialButton
+        android:layout_gravity="top|center_horizontal"
+        android:id="@+id/turn_off_incognito_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/button_horizontal_margin"
+        android:layout_marginTop="@dimen/account_menu_margin_between_header_and_button"
+        android:layout_marginRight="@dimen/button_horizontal_margin"
+        android:layout_marginBottom="@dimen/account_menu_margin_between_button_and_recycler_view"
+        app:backgroundTint="?attr/colorPrimaryGoogle"
+        app:cornerRadius="19dp"
+        style="?attr/ogButtonIcon"/>
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/common_actions"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        style="@style/OneGoogle.AccountMenu.RecyclerView"/>
+</merge>

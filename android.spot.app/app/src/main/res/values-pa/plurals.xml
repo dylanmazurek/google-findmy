@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="adm_device_picker_supervised_account_header">
+        <item quantity="one">%1$s ਦਾ ਡੀਵਾਈਸ</item>
+        <item quantity="other">%1$s ਦੇ ਡੀਵਾਈਸ</item>
+    </plurals>
+    <plurals name="content_desc_ring_device">
+        <item quantity="one">ਡੀਵਾਈਸ ਦੀ %1$d ਮਿੰਟ ਲਈ ਘੰਟੀ ਵਜਾਉਣਾ ਸ਼ੁਰੂ ਕਰੋ</item>
+        <item quantity="other">ਡੀਵਾਈਸ ਦੀ %1$d ਮਿੰਟ ਲਈ ਘੰਟੀ ਵਜਾਉਣਾ ਸ਼ੁਰੂ ਕਰੋ</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="one">%d ਨਵੀਂ ਸੂਚਨਾ</item>
+        <item quantity="other">%d ਨਵੀਆਂ ਸੂਚਨਾਵਾਂ</item>
+    </plurals>
+    <plurals name="public_notification_text">
+        <item quantity="one">You have a notification</item>
+        <item quantity="other">%1$d new notifications</item>
+    </plurals>
+    <plurals name="spot_sharing_application_shared_owners_title">
+        <item quantity="one">%1$d ਹੋਰ ਨਾਲ ਸਾਂਝਾ ਕੀਤਾ ਗਿਆ</item>
+        <item quantity="other">%1$d ਹੋਰਾਂ ਨਾਲ ਸਾਂਝਾ ਕੀਤਾ ਗਿਆ</item>
+    </plurals>
+</resources>

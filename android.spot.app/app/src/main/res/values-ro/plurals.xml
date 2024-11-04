@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="adm_device_picker_supervised_account_header">
+        <item quantity="one">Dispozitivul deținut de %1$s</item>
+        <item quantity="few">Dispozitivele deținute de %1$s</item>
+        <item quantity="other">Dispozitivele deținute de %1$s</item>
+    </plurals>
+    <plurals name="content_desc_ring_device">
+        <item quantity="one">Începe să apeleze dispozitivul %1$d minut</item>
+        <item quantity="few">Începe să apeleze dispozitivul %1$d minute</item>
+        <item quantity="other">Începe să apeleze dispozitivul %1$d de minute</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="one">%d notificare nouă</item>
+        <item quantity="few">%d notificări noi</item>
+        <item quantity="other">%d de notificări noi</item>
+    </plurals>
+    <plurals name="public_notification_text">
+        <item quantity="one">Aveți o notificare</item>
+        <item quantity="few">%1$d notificări noi</item>
+        <item quantity="other">%1$d de notificări noi</item>
+    </plurals>
+    <plurals name="spot_sharing_application_shared_owners_title">
+        <item quantity="one">Se folosește în comun cu încă %1$d persoană</item>
+        <item quantity="few">Se folosește în comun cu încă %1$d persoane</item>
+        <item quantity="other">Se folosește în comun cu încă %1$d de persoane</item>
+    </plurals>
+</resources>

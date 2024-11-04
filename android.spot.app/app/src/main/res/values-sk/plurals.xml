@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="adm_device_picker_supervised_account_header">
+        <item quantity="one">Zariadenie používateľa %1$s</item>
+        <item quantity="few">Zariadenia používateľa %1$s</item>
+        <item quantity="many">%1$s’s devices</item>
+        <item quantity="other">Zariadenia používateľa %1$s</item>
+    </plurals>
+    <plurals name="content_desc_ring_device">
+        <item quantity="one">Spustiť vyzváňanie na zariadení na %1$d minútu</item>
+        <item quantity="few">Spustiť vyzváňanie na zariadení na %1$d minúty</item>
+        <item quantity="many">Spustiť vyzváňanie na zariadení na %1$d minúty</item>
+        <item quantity="other">Spustiť vyzváňanie na zariadení na %1$d minút</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="one">%d nové upozornenie</item>
+        <item quantity="few">%d nové upozornenia</item>
+        <item quantity="many">%d new notifications</item>
+        <item quantity="other">%d nových upozornení</item>
+    </plurals>
+    <plurals name="public_notification_text">
+        <item quantity="one">Máte upozornenie</item>
+        <item quantity="few">%1$d nové upozornenia</item>
+        <item quantity="many">%1$d new notifications</item>
+        <item quantity="other">%1$d nových upozornení</item>
+    </plurals>
+    <plurals name="spot_sharing_application_shared_owners_title">
+        <item quantity="one">Zdieľané s %1$d ďalšou osobou</item>
+        <item quantity="few">Zdieľané s %1$d ďalšími osobami</item>
+        <item quantity="many">Shared with %1$d others</item>
+        <item quantity="other">Zdieľané s %1$d ďalšími osobami</item>
+    </plurals>
+</resources>

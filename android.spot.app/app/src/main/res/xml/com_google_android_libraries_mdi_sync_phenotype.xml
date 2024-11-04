@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phenotype-registrations>
+    <phenotype-registration>
+        <configuration-package>com.google.android.libraries.mdi.sync
+        </configuration-package>
+        <log-sources>
+            <log-source>MDI_SYNC_COMPONENTS_GAIA
+            </log-source>
+            <log-source>MDI_SYNC_COMPONENTS_VERBOSE
+            </log-source>
+        </log-sources>
+        <auto-subpackage>true
+        </auto-subpackage>
+    </phenotype-registration>
+</phenotype-registrations>

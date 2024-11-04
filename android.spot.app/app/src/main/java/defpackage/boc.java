@@ -1,0 +1,197 @@
+package defpackage;
+
+import java.util.Arrays;
+import java.util.HashMap;
+
+/* compiled from: PG */
+/* loaded from: classes.dex */
+public final class boc {
+    int a;
+    public final bof b = new bof();
+    public final boe c = new boe();
+    public final bod d = new bod();
+    public final bog e = new bog();
+    public HashMap f = new HashMap();
+    bob g;
+
+    /* renamed from: a, reason: merged with bridge method [inline-methods] */
+    public final boc clone() {
+        boc bocVar = new boc();
+        bod bodVar = bocVar.d;
+        bod bodVar2 = this.d;
+        bodVar.b = bodVar2.b;
+        bodVar.d = bodVar2.d;
+        bodVar.c = bodVar2.c;
+        bodVar.e = bodVar2.e;
+        bodVar.f = bodVar2.f;
+        bodVar.g = bodVar2.g;
+        bodVar.h = bodVar2.h;
+        bodVar.i = bodVar2.i;
+        bodVar.j = bodVar2.j;
+        bodVar.k = bodVar2.k;
+        bodVar.l = bodVar2.l;
+        bodVar.m = bodVar2.m;
+        bodVar.n = bodVar2.n;
+        bodVar.o = bodVar2.o;
+        bodVar.p = bodVar2.p;
+        bodVar.q = bodVar2.q;
+        bodVar.r = bodVar2.r;
+        bodVar.s = bodVar2.s;
+        bodVar.t = bodVar2.t;
+        bodVar.u = bodVar2.u;
+        bodVar.v = bodVar2.v;
+        bodVar.w = bodVar2.w;
+        bodVar.x = bodVar2.x;
+        bodVar.y = bodVar2.y;
+        bodVar.z = bodVar2.z;
+        bodVar.A = bodVar2.A;
+        bodVar.B = bodVar2.B;
+        bodVar.C = bodVar2.C;
+        bodVar.D = bodVar2.D;
+        bodVar.E = bodVar2.E;
+        bodVar.F = bodVar2.F;
+        bodVar.G = bodVar2.G;
+        bodVar.H = bodVar2.H;
+        bodVar.I = bodVar2.I;
+        bodVar.J = bodVar2.J;
+        bodVar.K = bodVar2.K;
+        bodVar.L = bodVar2.L;
+        bodVar.M = bodVar2.M;
+        bodVar.N = bodVar2.N;
+        bodVar.O = bodVar2.O;
+        bodVar.P = bodVar2.P;
+        bodVar.Q = bodVar2.Q;
+        bodVar.R = bodVar2.R;
+        bodVar.S = bodVar2.S;
+        bodVar.T = bodVar2.T;
+        bodVar.U = bodVar2.U;
+        bodVar.V = bodVar2.V;
+        bodVar.W = bodVar2.W;
+        bodVar.X = bodVar2.X;
+        bodVar.Y = bodVar2.Y;
+        bodVar.Z = bodVar2.Z;
+        bodVar.aa = bodVar2.aa;
+        bodVar.ab = bodVar2.ab;
+        bodVar.ac = bodVar2.ac;
+        bodVar.ad = bodVar2.ad;
+        bodVar.ae = bodVar2.ae;
+        bodVar.af = bodVar2.af;
+        bodVar.ag = bodVar2.ag;
+        bodVar.ah = bodVar2.ah;
+        bodVar.ai = bodVar2.ai;
+        bodVar.aj = bodVar2.aj;
+        bodVar.am = bodVar2.am;
+        int[] iArr = bodVar2.ak;
+        if (iArr != null && bodVar2.al == null) {
+            bodVar.ak = Arrays.copyOf(iArr, iArr.length);
+        } else {
+            bodVar.ak = null;
+        }
+        bodVar.al = bodVar2.al;
+        bodVar.an = bodVar2.an;
+        bodVar.ao = bodVar2.ao;
+        bodVar.ap = bodVar2.ap;
+        bodVar.aq = bodVar2.aq;
+        boe boeVar = bocVar.c;
+        boe boeVar2 = this.c;
+        boeVar.b = boeVar2.b;
+        boeVar.c = boeVar2.c;
+        boeVar.e = boeVar2.e;
+        boeVar.f = boeVar2.f;
+        boeVar.g = boeVar2.g;
+        boeVar.j = boeVar2.j;
+        boeVar.h = boeVar2.h;
+        boeVar.i = boeVar2.i;
+        bof bofVar = bocVar.b;
+        bof bofVar2 = this.b;
+        bofVar.a = bofVar2.a;
+        bofVar.b = bofVar2.b;
+        bofVar.d = bofVar2.d;
+        bofVar.e = bofVar2.e;
+        bofVar.c = bofVar2.c;
+        bog bogVar = bocVar.e;
+        bog bogVar2 = this.e;
+        bogVar.b = bogVar2.b;
+        bogVar.c = bogVar2.c;
+        bogVar.d = bogVar2.d;
+        bogVar.e = bogVar2.e;
+        bogVar.f = bogVar2.f;
+        bogVar.g = bogVar2.g;
+        bogVar.h = bogVar2.h;
+        bogVar.i = bogVar2.i;
+        bogVar.j = bogVar2.j;
+        bogVar.k = bogVar2.k;
+        bogVar.l = bogVar2.l;
+        bogVar.m = bogVar2.m;
+        bogVar.n = bogVar2.n;
+        bogVar.o = bogVar2.o;
+        bocVar.a = this.a;
+        bocVar.g = this.g;
+        return bocVar;
+    }
+
+    public final void b(bnx bnxVar) {
+        bod bodVar = this.d;
+        bnxVar.e = bodVar.j;
+        bnxVar.f = bodVar.k;
+        bnxVar.g = bodVar.l;
+        bnxVar.h = bodVar.m;
+        bnxVar.i = bodVar.n;
+        bnxVar.j = bodVar.o;
+        bnxVar.k = bodVar.p;
+        bnxVar.l = bodVar.q;
+        bnxVar.m = bodVar.r;
+        bnxVar.n = bodVar.s;
+        bnxVar.o = bodVar.t;
+        bnxVar.s = bodVar.u;
+        bnxVar.t = bodVar.v;
+        bnxVar.u = bodVar.w;
+        bnxVar.v = bodVar.x;
+        bnxVar.leftMargin = bodVar.H;
+        bnxVar.rightMargin = this.d.I;
+        bnxVar.topMargin = this.d.J;
+        bnxVar.bottomMargin = this.d.K;
+        bod bodVar2 = this.d;
+        bnxVar.A = bodVar2.T;
+        bnxVar.B = bodVar2.S;
+        bnxVar.x = bodVar2.P;
+        bnxVar.z = bodVar2.R;
+        bnxVar.G = bodVar2.y;
+        bnxVar.H = bodVar2.z;
+        bnxVar.p = bodVar2.B;
+        bnxVar.q = bodVar2.C;
+        bnxVar.r = bodVar2.D;
+        bnxVar.I = bodVar2.A;
+        bnxVar.X = bodVar2.E;
+        bnxVar.Y = bodVar2.F;
+        bnxVar.M = bodVar2.V;
+        bnxVar.L = bodVar2.W;
+        bnxVar.O = bodVar2.Y;
+        bnxVar.N = bodVar2.X;
+        bnxVar.aa = bodVar2.an;
+        bnxVar.ab = bodVar2.ao;
+        bnxVar.P = bodVar2.Z;
+        bnxVar.Q = bodVar2.aa;
+        bnxVar.T = bodVar2.ab;
+        bnxVar.U = bodVar2.ac;
+        bnxVar.R = bodVar2.ad;
+        bnxVar.S = bodVar2.ae;
+        bnxVar.V = bodVar2.af;
+        bnxVar.W = bodVar2.ag;
+        bnxVar.Z = bodVar2.G;
+        bnxVar.c = bodVar2.h;
+        bnxVar.a = bodVar2.f;
+        bnxVar.b = bodVar2.g;
+        bnxVar.width = bodVar2.d;
+        bnxVar.height = this.d.e;
+        bod bodVar3 = this.d;
+        String str = bodVar3.am;
+        if (str != null) {
+            bnxVar.ac = str;
+        }
+        bnxVar.ad = bodVar3.aq;
+        bnxVar.setMarginStart(bodVar3.M);
+        bnxVar.setMarginEnd(this.d.L);
+        bnxVar.a();
+    }
+}

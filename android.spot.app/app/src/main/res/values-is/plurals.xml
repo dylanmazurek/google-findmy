@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="adm_device_picker_supervised_account_header">
+        <item quantity="one">Tæki sem %1$s er með</item>
+        <item quantity="other">Tæki sem %1$s er með</item>
+    </plurals>
+    <plurals name="content_desc_ring_device">
+        <item quantity="one">Byrja að hringja í tæki í %1$d mínútu</item>
+        <item quantity="other">Byrja að hringja í tæki í %1$d mínútur</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="one">%d ný tilkynning</item>
+        <item quantity="other">%d nýjar tilkynningar</item>
+    </plurals>
+    <plurals name="public_notification_text">
+        <item quantity="one">You have a notification</item>
+        <item quantity="other">%1$d new notifications</item>
+    </plurals>
+    <plurals name="spot_sharing_application_shared_owners_title">
+        <item quantity="one">Deilt með %1$d í viðbót</item>
+        <item quantity="other">Deilt með %1$d í viðbót</item>
+    </plurals>
+</resources>

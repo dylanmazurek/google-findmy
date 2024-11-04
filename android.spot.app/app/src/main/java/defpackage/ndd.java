@@ -1,0 +1,55 @@
+package defpackage;
+
+/* compiled from: PG */
+/* loaded from: classes.dex */
+public final class ndd extends ljn implements lkr {
+    public static final ndd e;
+    private static volatile lkx f;
+    public int a;
+    public ljv b = lla.a;
+    public nde c;
+    public int d;
+
+    static {
+        ndd nddVar = new ndd();
+        e = nddVar;
+        ljn.w(ndd.class, nddVar);
+    }
+
+    private ndd() {
+    }
+
+    @Override // defpackage.ljn
+    protected final Object a(int i, Object obj) {
+        int i2 = i - 1;
+        if (i2 != 0) {
+            if (i2 != 2) {
+                if (i2 != 3) {
+                    if (i2 != 4) {
+                        if (i2 != 5) {
+                            if (i2 != 6) {
+                                return null;
+                            }
+                            lkx lkxVar = f;
+                            if (lkxVar == null) {
+                                synchronized (ndd.class) {
+                                    lkxVar = f;
+                                    if (lkxVar == null) {
+                                        lkxVar = new lji(e);
+                                        f = lkxVar;
+                                    }
+                                }
+                            }
+                            return lkxVar;
+                        }
+                        return e;
+                    }
+                    return new ljh(e);
+                }
+                return new ndd();
+            }
+            return new llb(e, "\u0001\u0003\u0000\u0001\u0001\u0003\u0003\u0000\u0001\u0000\u0001\u001b\u0002ဉ\u0000\u0003င\u0001", new Object[]{"a", "b", ndc.class, "c", "d"});
+        }
+        return (byte) 1;
+    }
+}

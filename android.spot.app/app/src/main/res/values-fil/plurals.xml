@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="adm_device_picker_supervised_account_header">
+        <item quantity="one">Mga device ni %1$s</item>
+        <item quantity="other">Mga device ni %1$s</item>
+    </plurals>
+    <plurals name="content_desc_ring_device">
+        <item quantity="one">Ipa-ring ang device sa loob ng %1$d minuto</item>
+        <item quantity="other">Ipa-ring ang device sa loob ng %1$d na minuto</item>
+    </plurals>
+    <plurals name="public_notification_text">
+        <item quantity="one">%1$d bagong notification</item>
+        <item quantity="other">%1$d na bagong notification</item>
+    </plurals>
+    <plurals name="spot_sharing_application_shared_owners_title">
+        <item quantity="one">Ibinahagi sa %1$d pang iba</item>
+        <item quantity="other">Ibinahagi sa %1$d pang iba</item>
+    </plurals>
+</resources>

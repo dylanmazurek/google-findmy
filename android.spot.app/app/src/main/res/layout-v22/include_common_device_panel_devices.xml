@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:id="@+id/common_device_panel_devices"
+    android:paddingLeft="12dp"
+    android:paddingRight="12dp"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="8dp"
+    android:paddingHorizontal="12dp">
+    <include
+        android:id="@+id/common_device_panel_info"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        layout="@layout/include_common_device_panel_device"/>
+    <ViewStub
+        android:id="@+id/common_device_custom_header_stub"
+        android:inflatedId="@+id/common_device_custom_header"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+    <include
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="12dp"
+        android:layout_marginRight="12dp"
+        android:layout_marginBottom="24dp"
+        android:layout_marginHorizontal="12dp"
+        layout="@layout/suggested_action_card"/>
+    <LinearLayout
+        android:gravity="center"
+        android:orientation="vertical"
+        android:id="@+id/common_device_btn_panel"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+</LinearLayout>

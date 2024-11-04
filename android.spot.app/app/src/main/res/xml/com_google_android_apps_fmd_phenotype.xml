@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phenotype-registrations>
+    <phenotype-registration>
+        <configuration-package>com.google.android.apps.fmd
+        </configuration-package>
+        <log-sources>
+            <log-source>FIND_MY_DEVICE_CLEARCUT
+            </log-source>
+        </log-sources>
+        <auto-subpackage>true
+        </auto-subpackage>
+    </phenotype-registration>
+</phenotype-registrations>

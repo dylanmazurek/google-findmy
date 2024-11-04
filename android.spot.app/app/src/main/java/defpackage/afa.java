@@ -1,0 +1,12 @@
+package defpackage;
+
+/* compiled from: PG */
+/* loaded from: classes.dex */
+public enum afa {
+    ShutDown,
+    ShuttingDown,
+    Inactive,
+    InactivePendingWork,
+    Idle,
+    PendingWork
+}

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phenotype-registrations>
+    <phenotype-registration>
+        <configuration-package>com.google.android.libraries.onegoogle
+        </configuration-package>
+        <log-sources>
+            <log-source>IDENTITY_CONSENT_UI
+            </log-source>
+            <log-source>ONEGOOGLE_MOBILE
+            </log-source>
+            <log-source>STREAMZ_CONSENTKIT_MOBILE
+            </log-source>
+        </log-sources>
+        <auto-subpackage>true
+        </auto-subpackage>
+    </phenotype-registration>
+</phenotype-registrations>

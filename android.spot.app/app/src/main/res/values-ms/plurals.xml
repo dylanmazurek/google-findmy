@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="adm_device_picker_supervised_account_header">
+        <item quantity="one">Peranti %1$s</item>
+        <item quantity="other">Peranti %1$s</item>
+    </plurals>
+    <plurals name="content_desc_ring_device">
+        <item quantity="one">Mula membunyikan peranti selama %1$d minit</item>
+        <item quantity="other">Mula membunyikan peranti selama %1$d minit</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="one">%d pemberitahuan baharu</item>
+        <item quantity="other">%d pemberitahuan baharu</item>
+    </plurals>
+    <plurals name="public_notification_text">
+        <item quantity="one">Anda mempunyai pemberitahuan</item>
+        <item quantity="other">%1$d pemberitahuan baharu</item>
+    </plurals>
+    <plurals name="spot_sharing_application_shared_owners_title">
+        <item quantity="one">Dikongsi dengan %1$d orang lain</item>
+        <item quantity="other">Dikongsi dengan %1$d orang lain</item>
+    </plurals>
+</resources>

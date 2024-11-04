@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="?android:attr/colorBackground"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <androidx.constraintlayout.widget.Guideline
+        android:orientation="horizontal"
+        android:id="@+id/status_bar_guideline"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintGuide_percent="0"/>
+    <com.airbnb.lottie.LottieAnimationView
+        android:id="@+id/home_device_animation"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginLeft="48dp"
+        android:layout_marginRight="48dp"
+        android:src="@drawable/device_icon_background"
+        android:contentDescription="@null"
+        app:layout_constraintBottom_toTopOf="@+id/bottom_of_fragment_space_guideline"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/status_bar_guideline"
+        app:lottie_autoPlay="true"
+        app:lottie_loop="true"/>
+    <androidx.constraintlayout.widget.Guideline
+        android:orientation="horizontal"
+        android:id="@+id/bottom_of_fragment_space_guideline"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintGuide_percent="0.45"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

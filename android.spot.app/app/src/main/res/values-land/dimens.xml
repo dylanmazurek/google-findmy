@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="abc_action_bar_default_height_material">48dp</dimen>
+    <dimen name="button_horizontal_margin">48dp</dimen>
+    <dimen name="google_toolbar_text_size_subtitle">12dp</dimen>
+    <dimen name="google_toolbar_text_size_title">14dp</dimen>
+    <dimen name="mtrl_alert_dialog_background_inset_bottom">24dp</dimen>
+    <dimen name="mtrl_alert_dialog_background_inset_top">24dp</dimen>
+    <dimen name="mtrl_calendar_header_height_fullscreen">96dp</dimen>
+    <dimen name="og_material3_container_external_horizontal_spacing">32dp</dimen>
+</resources>

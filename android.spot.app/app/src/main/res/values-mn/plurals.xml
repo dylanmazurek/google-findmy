@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="adm_device_picker_supervised_account_header">
+        <item quantity="one">%1$s-н төхөөрөмж</item>
+        <item quantity="other">%1$s-н төхөөрөмж</item>
+    </plurals>
+    <plurals name="content_desc_ring_device">
+        <item quantity="one">Төхөөрөмжид %1$d мин залгах</item>
+        <item quantity="other">Төхөөрөмжид %1$d мин залгах</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="one">%d шинэ мэдэгдэл</item>
+        <item quantity="other">%d шинэ мэдэгдэл</item>
+    </plurals>
+    <plurals name="public_notification_text">
+        <item quantity="one">You have a notification</item>
+        <item quantity="other">%1$d new notifications</item>
+    </plurals>
+    <plurals name="spot_sharing_application_shared_owners_title">
+        <item quantity="one">Өөр %1$d хүнтэй хуваалцсан</item>
+        <item quantity="other">Өөр %1$d хүнтэй хуваалцсан</item>
+    </plurals>
+</resources>

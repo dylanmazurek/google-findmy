@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="one">%d new notification</item>
+        <item quantity="other">%d new notifications</item>
+    </plurals>
+    <plurals name="public_notification_text">
+        <item quantity="one">ଆପଣଙ୍କର ଗୋଟିଏ ବିଜ୍ଞପ୍ତି ଅଛି</item>
+        <item quantity="other">%1$dଟି ନୂଆ ବିଜ୍ଞପ୍ତି</item>
+    </plurals>
+</resources>

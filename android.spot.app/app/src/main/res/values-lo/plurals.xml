@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="adm_device_picker_supervised_account_header">
+        <item quantity="one">ອຸປະກອນຂອງ %1$s</item>
+        <item quantity="other">ອຸປະກອນຂອງ %1$s</item>
+    </plurals>
+    <plurals name="content_desc_ring_device">
+        <item quantity="one">ເລີ່ມໃຫ້ອຸປະກອນສຽງດັງເປັນເວລາ %1$d ນາທີ</item>
+        <item quantity="other">ເລີ່ມໃຫ້ອຸປະກອນສຽງດັງເປັນເວລາ %1$d ນາທີ</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="one">%d ການແຈ້ງເຕືອນໃໝ່</item>
+        <item quantity="other">%d ການແຈ້ງເຕືອນໃໝ່</item>
+    </plurals>
+    <plurals name="public_notification_text">
+        <item quantity="one">You have a notification</item>
+        <item quantity="other">%1$d new notifications</item>
+    </plurals>
+    <plurals name="spot_sharing_application_shared_owners_title">
+        <item quantity="one">ໄດ້ແບ່ງປັນກັບອີກ %1$d ຄົນ</item>
+        <item quantity="other">ໄດ້ແບ່ງປັນກັບອີກ %1$d ຄົນ</item>
+    </plurals>
+</resources>

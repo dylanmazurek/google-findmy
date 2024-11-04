@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="adm_device_picker_supervised_account_header">
+        <item quantity="one">%1$sගේ උපාංග</item>
+        <item quantity="other">%1$sගේ උපාංග</item>
+    </plurals>
+    <plurals name="content_desc_ring_device">
+        <item quantity="one">උපාංගය මිනිත්තු %1$dක් නාද වීම ආරම්භ කරන්න</item>
+        <item quantity="other">උපාංගය මිනිත්තු %1$dක් නාද වීම ආරම්භ කරන්න</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="one">නව දැනුම්දීම් %dක්</item>
+        <item quantity="other">නව දැනුම්දීම් %dක්</item>
+    </plurals>
+    <plurals name="public_notification_text">
+        <item quantity="one">You have a notification</item>
+        <item quantity="other">%1$d new notifications</item>
+    </plurals>
+    <plurals name="spot_sharing_application_shared_owners_title">
+        <item quantity="one">තවත් %1$d දෙනෙක් සමග බෙදා ගන්නා ලදී</item>
+        <item quantity="other">තවත් %1$d දෙනෙක් සමග බෙදා ගන්නා ලදී</item>
+    </plurals>
+</resources>

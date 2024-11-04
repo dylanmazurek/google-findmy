@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="adm_device_picker_supervised_account_header">
+        <item quantity="one">המכשירים של %1$s</item>
+        <item quantity="two">המכשירים של %1$s</item>
+        <item quantity="other">המכשירים של %1$s</item>
+    </plurals>
+    <plurals name="content_desc_ring_device">
+        <item quantity="one">התחל להשמיע צלצול במכשיר למשך %1$d דקות</item>
+        <item quantity="two">התחל להשמיע צלצול במכשיר למשך %1$d דקות</item>
+        <item quantity="other">התחל להשמיע צלצול במכשיר למשך %1$d דקות</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="one">%d התראות חדשות</item>
+        <item quantity="two">%d התראות חדשות</item>
+        <item quantity="other">%d התראות חדשות</item>
+    </plurals>
+    <plurals name="public_notification_text">
+        <item quantity="one">%1$d התראות חדשות</item>
+        <item quantity="two">%1$d התראות חדשות</item>
+        <item quantity="other">%1$d התראות חדשות</item>
+    </plurals>
+    <plurals name="spot_sharing_application_shared_owners_title">
+        <item quantity="one">המכשיר משותף עם %1$d אנשים</item>
+        <item quantity="two">המכשיר משותף עם %1$d אנשים</item>
+        <item quantity="other">המכשיר משותף עם %1$d אנשים</item>
+    </plurals>
+</resources>

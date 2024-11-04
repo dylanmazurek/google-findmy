@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <ImageView
+        android:background="@drawable/gs_circle_fill1_vd_theme_24"
+        android:padding="12dp"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:src="@drawable/gs_error_vd_theme_24"
+        android:tint="?attr/colorOnSurfaceVariant"
+        android:backgroundTint="?attr/colorSurfaceVariant"/>
+    <TextView
+        android:textAppearance="?attr/textAppearanceTitleSmall"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text="@string/adm_device_picker_device_loading_failure"/>
+    <com.google.android.material.chip.Chip
+        android:id="@+id/try_again_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="34dp"
+        android:text="@string/try_again"
+        app:chipIcon="@drawable/gs_refresh_vd_theme_24"
+        app:chipIconTint="?attr/colorPrimary"
+        app:ensureMinTouchTargetSize="true"
+        style="?attr/chipStyle"/>
+</LinearLayout>

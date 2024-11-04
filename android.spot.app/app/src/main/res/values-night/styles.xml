@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="OneGoogle.AccountMenu.DayNight" parent="@style/OneGoogle.AccountMenu.Dark">
+    </style>
+    <style name="OneGoogle.AccountMenu.GoogleMaterial3.DayNight" parent="@style/OneGoogle.AccountMenu.GoogleMaterial3.Dark">
+    </style>
+    <style name="OneGoogle.AccountParticleDisc.DayNight" parent="@style/OneGoogle.AccountParticleDisc.Dark">
+    </style>
+    <style name="OneGoogle.ExpressSignIn.Attrs.GoogleMaterial3WithBox" parent="@style/OneGoogle.ExpressSignIn.Attrs.GoogleMaterial3WithBox.Base">
+        <item name="elevationOverlayEnabled">true</item>
+    </style>
+    <style name="OneGoogle.ExpressSignIn.GoogleMaterial.DayNight" parent="@style/OneGoogle.ExpressSignIn.GoogleMaterial.Dark">
+    </style>
+    <style name="OneGoogle.ExpressSignIn.GoogleMaterial3.DayNight" parent="@style/OneGoogle.ExpressSignIn.GoogleMaterial3.Dark">
+    </style>
+    <style name="Theme.AppCompat.DayNight" parent="@style/Theme.AppCompat">
+    </style>
+    <style name="Theme.GoogleMaterial3.DayNight.NoActionBar" parent="@style/Theme.GoogleMaterial3.Dark.NoActionBar">
+    </style>
+</resources>

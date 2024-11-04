@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="adm_device_picker_supervised_account_header">
+        <item quantity="one">Пристрої користувача %1$s</item>
+        <item quantity="few">Пристрої користувача %1$s</item>
+        <item quantity="many">Пристрої користувача %1$s</item>
+        <item quantity="other">Пристрої користувача %1$s</item>
+    </plurals>
+    <plurals name="content_desc_ring_device">
+        <item quantity="one">Увімкнути на пристрої сигнал на %1$d хвилину</item>
+        <item quantity="few">Увімкнути на пристрої сигнал на %1$d хвилини</item>
+        <item quantity="many">Увімкнути на пристрої сигнал на %1$d хвилин</item>
+        <item quantity="other">Увімкнути на пристрої сигнал на %1$d хвилини</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="one">%d нове сповіщення</item>
+        <item quantity="few">%d нові сповіщення</item>
+        <item quantity="many">%d нових сповіщень</item>
+        <item quantity="other">%d нового сповіщення</item>
+    </plurals>
+    <plurals name="public_notification_text">
+        <item quantity="one">%1$d нове сповіщення</item>
+        <item quantity="few">%1$d нових сповіщення</item>
+        <item quantity="many">%1$d нових сповіщень</item>
+        <item quantity="other">%1$d нового сповіщення</item>
+    </plurals>
+    <plurals name="spot_sharing_application_shared_owners_title">
+        <item quantity="one">Доступ має ще %1$d користувач</item>
+        <item quantity="few">Доступ мають ще %1$d користувачі</item>
+        <item quantity="many">Доступ мають ще %1$d користувачів</item>
+        <item quantity="other">Доступ мають ще %1$d користувача</item>
+    </plurals>
+</resources>

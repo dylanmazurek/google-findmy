@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginLeft="50dp"
+    android:layout_marginTop="40dp"
+    android:layout_marginRight="50dp"
+    android:layout_marginBottom="20dp"
+    android:layout_marginHorizontal="50dp">
+    <ImageView
+        android:id="@+id/work_profile_icon"
+        android:background="@drawable/gs_circle_fill1_vd_theme_24"
+        android:padding="12dp"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:src="@drawable/gs_work_vd_theme_24"
+        android:backgroundTint="?attr/colorSurfaceVariant"/>
+    <TextView
+        android:textAppearance="?attr/textAppearanceTitleSmall"
+        android:gravity="center"
+        android:id="@+id/work_profile_header"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text="@string/adm_device_picker_work_profile_header"/>
+    <TextView
+        android:textAppearance="?attr/textAppearanceBodySmall"
+        android:gravity="center"
+        android:id="@+id/work_profile_explanation_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:text="@string/adm_device_picker_work_profile_explanation"/>
+    <com.google.android.material.chip.Chip
+        android:id="@+id/switch_to_personal_profile"
+        android:visibility="gone"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:layout_marginBottom="30dp"
+        android:layout_marginVertical="30dp"
+        app:chipIconTint="?attr/colorPrimary"
+        app:ensureMinTouchTargetSize="true"
+        style="?attr/chipStyle"/>
+</LinearLayout>

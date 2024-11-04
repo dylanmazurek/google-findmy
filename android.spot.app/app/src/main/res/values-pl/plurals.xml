@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="adm_device_picker_supervised_account_header">
+        <item quantity="one">Urządzenie użytkownika %1$s</item>
+        <item quantity="few">Urządzenia użytkownika %1$s</item>
+        <item quantity="many">Urządzenia użytkownika %1$s</item>
+        <item quantity="other">Urządzenia użytkownika %1$s</item>
+    </plurals>
+    <plurals name="content_desc_ring_device">
+        <item quantity="one">Włącz dzwonek urządzenia na %1$d minutę</item>
+        <item quantity="few">Włącz dzwonek urządzenia na %1$d minuty</item>
+        <item quantity="many">Włącz dzwonek urządzenia na %1$d minut</item>
+        <item quantity="other">Włącz dzwonek urządzenia na %1$d minuty</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="one">%d nowe powiadomienie</item>
+        <item quantity="few">%d nowe powiadomienia</item>
+        <item quantity="many">%d nowych powiadomień</item>
+        <item quantity="other">%d nowego powiadomienia</item>
+    </plurals>
+    <plurals name="public_notification_text">
+        <item quantity="one">Masz powiadomienie</item>
+        <item quantity="few">%1$d nowe powiadomienia</item>
+        <item quantity="many">%1$d nowych powiadomień</item>
+        <item quantity="other">%1$d nowego powiadomienia</item>
+    </plurals>
+    <plurals name="spot_sharing_application_shared_owners_title">
+        <item quantity="one">Udostępniono jeszcze %1$d osobie</item>
+        <item quantity="few">Udostępniono jeszcze %1$d osobom</item>
+        <item quantity="many">Udostępniono jeszcze %1$d osobom</item>
+        <item quantity="other">Udostępniono jeszcze %1$d osoby</item>
+    </plurals>
+</resources>

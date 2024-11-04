@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/container_bottom_sheet"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:transitionName="transitionName:container_bottom_sheet_scroll"
+    app:layout_behavior="com.google.android.material.bottomsheet.BottomSheetBehavior"
+    app:layout_insetEdge="bottom">
+    <com.google.android.material.card.MaterialCardView
+        android:id="@+id/container_bottom_sheet_card"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:cardPreventCornerOverlap="false"
+        style="@style/Widget.Fmd.CardView.BottomSheet">
+        <android.support.v4.app.FragmentContainerView
+            android:id="@+id/bottom_sheet_fragment_container"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+    </com.google.android.material.card.MaterialCardView>
+</FrameLayout>

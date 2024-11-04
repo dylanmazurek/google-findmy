@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="adm_device_picker_supervised_account_header">
+        <item quantity="one">%1$s eszköze</item>
+        <item quantity="other">%1$s eszközei</item>
+    </plurals>
+    <plurals name="content_desc_ring_device">
+        <item quantity="one">Az eszköz csörgetése %1$d percig</item>
+        <item quantity="other">Az eszköz csörgetése %1$d percig</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="one">%d új értesítés</item>
+        <item quantity="other">%d új értesítés</item>
+    </plurals>
+    <plurals name="public_notification_text">
+        <item quantity="one">Értesítése jött</item>
+        <item quantity="other">%1$d új értesítés</item>
+    </plurals>
+    <plurals name="spot_sharing_application_shared_owners_title">
+        <item quantity="one">Megosztva %1$d másik személlyel</item>
+        <item quantity="other">Megosztva %1$d másik személlyel</item>
+    </plurals>
+</resources>

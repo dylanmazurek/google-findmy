@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="adm_device_picker_supervised_account_header">
+        <item quantity="one">Uređaji korisnika %1$s</item>
+        <item quantity="few">Uređaji korisnika %1$s</item>
+        <item quantity="other">Uređaji korisnika %1$s</item>
+    </plurals>
+    <plurals name="content_desc_ring_device">
+        <item quantity="one">Pokreni zvonjenje uređaja %1$d minutu</item>
+        <item quantity="few">Pokreni zvonjenje uređaja %1$d minute</item>
+        <item quantity="other">Pokreni zvonjenje uređaja %1$d minuta</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="one">%d nova obavijest</item>
+        <item quantity="few">%d nove obavijesti</item>
+        <item quantity="other">%d novih obavijesti</item>
+    </plurals>
+    <plurals name="public_notification_text">
+        <item quantity="one">You have a notification</item>
+        <item quantity="other">%1$d new notifications</item>
+    </plurals>
+    <plurals name="spot_sharing_application_shared_owners_title">
+        <item quantity="one">Dijeli se s još %1$d osobom</item>
+        <item quantity="few">Dijeli se s još %1$d osobe</item>
+        <item quantity="other">Dijeli se s još %1$d osoba</item>
+    </plurals>
+</resources>

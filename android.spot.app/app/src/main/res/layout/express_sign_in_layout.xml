@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/express_sign_in_internal_view"
+    android:clipChildren="false"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <View
+        android:id="@+id/fake_scrim_view"
+        android:visibility="gone"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:contentDescription="@null"
+        android:importantForAccessibility="no"/>
+    <View
+        android:id="@+id/scrim_view"
+        android:background="@color/og_express_sign_in_scrim_bg_color"
+        android:visibility="gone"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:contentDescription="@null"
+        android:importantForAccessibility="no"/>
+    <FrameLayout
+        android:layout_gravity="center_horizontal"
+        android:id="@+id/main_container"
+        android:clipChildren="false"
+        android:layout_width="@dimen/og_express_sign_in_layout_width"
+        android:layout_height="match_parent"
+        android:layout_marginTop="@dimen/og_express_sign_in_layout_top_margin"
+        android:layout_marginBottom="?attr/ogDialogMarginBottom">
+        <include layout="@layout/og_express_sign_in_content"/>
+    </FrameLayout>
+</FrameLayout>

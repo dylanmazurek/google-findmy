@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="adm_device_picker_supervised_account_header">
+        <item quantity="one">Appareil de %1$s</item>
+        <item quantity="other">Appareils de %1$s</item>
+    </plurals>
+    <plurals name="content_desc_ring_device">
+        <item quantity="one">Faire sonner l&apos;appareil pendant %1$d minute</item>
+        <item quantity="other">Faire sonner l&apos;appareil pendant %1$d minutes</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="one">%d nouvelle notification</item>
+        <item quantity="other">%d nouvelles notifications</item>
+    </plurals>
+    <plurals name="public_notification_text">
+        <item quantity="one">%1$d nouvelle notification</item>
+        <item quantity="other">%1$d nouvelles notifications</item>
+    </plurals>
+    <plurals name="spot_sharing_application_shared_owners_title">
+        <item quantity="one">Partagé avec %1$d autre personne</item>
+        <item quantity="other">Partagé avec %1$d autres personnes</item>
+    </plurals>
+</resources>

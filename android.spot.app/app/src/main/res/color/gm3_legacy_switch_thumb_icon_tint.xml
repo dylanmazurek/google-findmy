@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:state_enabled="false"
+        android:state_checked="false"
+        android:color="?attr/colorSurfaceVariant"
+        android:alpha="0.38"/>
+    <item
+        android:state_enabled="false"
+        android:state_checked="true"
+        android:color="?attr/colorOnSurface"
+        android:alpha="0.38"/>
+    <item
+        android:state_checked="true"
+        android:color="?attr/colorOnPrimaryContainer"/>
+    <item android:color="?attr/colorSurfaceVariant"/>
+</selector>

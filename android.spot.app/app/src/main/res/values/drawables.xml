@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="fmd_logo_foreground">@drawable/fmd_logo</drawable>
+</resources>

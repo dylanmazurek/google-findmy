@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="adm_device_picker_supervised_account_header">
+        <item quantity="one">%1$s adlı şəxsin cihazı</item>
+        <item quantity="other">%1$s adlı şəxsin cihazları</item>
+    </plurals>
+    <plurals name="content_desc_ring_device">
+        <item quantity="one">Cihazı %1$d dəqiqəlik çaldırmağa başlayın</item>
+        <item quantity="other">Cihazı %1$d dəqiqəlik çaldırmağa başlayın</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="one">%d yeni bildiriş</item>
+        <item quantity="other">%d yeni bildiriş</item>
+    </plurals>
+    <plurals name="public_notification_text">
+        <item quantity="one">You have a notification</item>
+        <item quantity="other">%1$d new notifications</item>
+    </plurals>
+    <plurals name="spot_sharing_application_shared_owners_title">
+        <item quantity="one">Başqa %1$d nəfər ilə paylaşılıb</item>
+        <item quantity="other">Başqa %1$d nəfər ilə paylaşılıb</item>
+    </plurals>
+</resources>

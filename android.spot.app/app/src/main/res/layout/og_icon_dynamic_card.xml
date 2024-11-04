@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="@dimen/account_menu_cards_vertical_spacing">
+    <ImageView
+        android:id="@+id/og_card_icon"
+        android:layout_width="@dimen/account_menu_dynamic_cards_icon_size"
+        android:layout_height="@dimen/account_menu_dynamic_cards_icon_size"
+        android:contentDescription="@null"
+        android:importantForAccessibility="no"/>
+    <FrameLayout
+        android:id="@+id/og_card_view_container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/account_menu_cards_content_margin_from_icon"
+        android:layout_marginStart="@dimen/account_menu_cards_content_margin_from_icon"/>
+</LinearLayout>

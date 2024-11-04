@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:id="@+id/overview_root"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <androidx.coordinatorlayout.widget.CoordinatorLayout
+        android:id="@+id/container_map_and_bottom_sheet"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            app:layout_behavior="@string/appbar_scrolling_view_behavior">
+            <include layout="@layout/adm_map_overlay_fragment"/>
+            <include layout="@layout/adm_floating_buttons_container"/>
+        </androidx.constraintlayout.widget.ConstraintLayout>
+        <include layout="@layout/adm_container_bottom_sheet"/>
+    </androidx.coordinatorlayout.widget.CoordinatorLayout>
+</LinearLayout>

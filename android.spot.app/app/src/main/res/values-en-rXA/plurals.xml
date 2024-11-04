@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="adm_device_picker_supervised_account_header">
+        <item quantity="one">[ᐅ%1$sᐊ’š ðévîçé one two three]</item>
+        <item quantity="other">[ᐅ%1$sᐊ’š ðévîçéš one two three]</item>
+    </plurals>
+    <plurals name="content_desc_ring_device">
+        <item quantity="one">[Šţåŕţ ţö ŕîñĝ ðévîçé ƒöŕ ᐅ%1$dᐊ mîñûţé one two three four five six seven eight]</item>
+        <item quantity="other">[Šţåŕţ ţö ŕîñĝ ðévîçé ƒöŕ ᐅ%1$dᐊ mîñûţéš one two three four five six seven eight]</item>
+    </plurals>
+    <plurals name="spot_sharing_application_shared_owners_title">
+        <item quantity="one">[Šĥåŕéð ŵîţĥ ᐅ%1$dᐊ öţĥéŕ one two three four five]</item>
+        <item quantity="other">[Šĥåŕéð ŵîţĥ ᐅ%1$dᐊ öţĥéŕš one two three four five]</item>
+    </plurals>
+</resources>

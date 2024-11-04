@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="adm_device_picker_supervised_account_header">
+        <item quantity="one">ឧបករណ៍របស់ %1$s</item>
+        <item quantity="other">ឧបករណ៍​របស់ %1$s</item>
+    </plurals>
+    <plurals name="content_desc_ring_device">
+        <item quantity="one">ចាប់ផ្តើម​បន្លឺសំឡេង​ឧបករណ៍​រយៈពេល %1$d នាទី</item>
+        <item quantity="other">ចាប់ផ្តើម​បន្លឺសំឡេង​ឧបករណ៍​រយៈពេល %1$d នាទី</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="one">ការជូនដំណឹងថ្មី %d</item>
+        <item quantity="other">ការជូនដំណឹងថ្មី %d</item>
+    </plurals>
+    <plurals name="public_notification_text">
+        <item quantity="one">You have a notification</item>
+        <item quantity="other">%1$d new notifications</item>
+    </plurals>
+    <plurals name="spot_sharing_application_shared_owners_title">
+        <item quantity="one">បានចែករំលែកជាមួយ %1$d នាក់ផ្សេងទៀត</item>
+        <item quantity="other">បានចែករំលែកជាមួយ %1$d នាក់ផ្សេងទៀត</item>
+    </plurals>
+</resources>
